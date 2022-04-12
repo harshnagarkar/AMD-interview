@@ -35,6 +35,4 @@ if __name__=="__main__":
 
     print(json.dumps(ans))
 
-# ans[data[0]]=data["superheros"]
-
 

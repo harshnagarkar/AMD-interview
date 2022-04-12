@@ -14,9 +14,5 @@ if __name__=="__main__":
         else:
             right=input[len(input)-1-i]
         ans.append((left,right))
-        # if r%2!=0:
-        #     ans.append((left,right))
-        # else:
-        #     ans.appendleft((left,right))
         
     print(ans)
